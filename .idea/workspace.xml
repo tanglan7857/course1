@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8f942fa4-c380-4672-9835-f239c87cc5e9" name="默认更改列表" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="JupyterTrust" id="42a1356e-1ca8-4023-ae76-6b9b9b89fd39" />
+  <component name="ProjectId" id="1aiAL7SiJloOAr9ZR8iBgc6365G" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.mat2npy_all">
+    <configuration name="load_data" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="course1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/load_data.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="mat2npy_all" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="course1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mat2npy_all.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="produce_dataset" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="course1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/produce_dataset.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.mat2npy_all" />
+        <item itemvalue="Python.load_data" />
+        <item itemvalue="Python.produce_dataset" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8f942fa4-c380-4672-9835-f239c87cc5e9" name="默认更改列表" comment="" />
+      <created>1587207982425</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587207982425</updated>
+      <workItem from="1587207985545" duration="7855000" />
+      <workItem from="1587265715240" duration="2178000" />
+      <workItem from="1587439408988" duration="2252000" />
+      <workItem from="1587444414707" duration="631000" />
+      <workItem from="1590551831311" duration="176000" />
+      <workItem from="1590553199643" duration="654000" />
+      <workItem from="1591091061637" duration="89000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="354" y="38" key="FileChooserDialogImpl" timestamp="1587443577730">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="354" y="38" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1587443577730" />
+    <state width="1227" height="152" key="GridCell.Tab.0.bottom" timestamp="1590552009570">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1227" height="152" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1590552009570" />
+    <state width="1227" height="152" key="GridCell.Tab.0.center" timestamp="1590552009570">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1227" height="152" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1590552009570" />
+    <state width="1227" height="152" key="GridCell.Tab.0.left" timestamp="1590552009570">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1227" height="152" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1590552009570" />
+    <state width="1227" height="152" key="GridCell.Tab.0.right" timestamp="1590552009570">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1227" height="152" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1590552009570" />
+    <state width="1227" height="190" key="GridCell.Tab.1.bottom" timestamp="1587443586039">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1227" height="190" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1587443586039" />
+    <state width="1227" height="190" key="GridCell.Tab.1.center" timestamp="1587443586039">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1227" height="190" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1587443586039" />
+    <state width="1227" height="190" key="GridCell.Tab.1.left" timestamp="1587443586039">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1227" height="190" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1587443586039" />
+    <state width="1227" height="190" key="GridCell.Tab.1.right" timestamp="1587443586039">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1227" height="190" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1587443586039" />
+    <state x="9" y="0" key="SettingsEditor" timestamp="1587266006797">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="9" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1587266006797" />
+    <state x="339" y="164" key="com.intellij.ide.util.TipDialog" timestamp="1591091063336">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="339" y="164" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1591091063336" />
+    <state x="219" y="0" width="840" height="678" key="search.everywhere.popup" timestamp="1587214861988">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="219" y="0" width="840" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1587214861988" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/course1$mat2npy_all.coverage" NAME="mat2npy_all Coverage Results" MODIFIED="1590551975972" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/course1$produce_dataset.coverage" NAME="produce_dataset Coverage Results" MODIFIED="1587212736363" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/course1$load_data.coverage" NAME="load_data Coverage Results" MODIFIED="1587265829653" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
